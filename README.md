@@ -15,7 +15,7 @@ Landing page for **SwiftLift** — the iPhone workout tracker with no account, n
 1. Push this folder to a GitHub repository
 2. Go to **Settings → Pages**
 3. Set source to **main branch / root**
-4. Your site will be live at `https://yourusername.github.io/swiftlift`
+4. Your site will be live at `https://appstore-code.github.io/swiftlift/`
 
 ## App Store URLs to use
 
